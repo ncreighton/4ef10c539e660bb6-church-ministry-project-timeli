@@ -1,2 +1,28 @@
-# 4ef10c539e660bb6-church-ministry-project-timeli
-You shouldn't need a virtual assistant just to move data between apps to automate a multi-tool business process in an afternoon.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Church Ministry Project Timeline And Milest
+# Church Ministry Project Timeline and Milestone Tracker
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x2cN58v53o8cVW9rKcZH05)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x2cN58v53o8cVW9rKcZH05)
+
